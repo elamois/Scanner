@@ -4,7 +4,7 @@
 #
 # Authors:
 # Matthew Mundell <matthew.mundell@greenbone.net>
-# Jan-Oliver Wagner <jan-oliver.wagner@greenbone.net>
+# Jan-Oliver Wagner <jan-oliver.wagner@greenbone.net> my hero
 #
 # Copyright:
 # Copyright (C) 2011-2015 Greenbone Networks GmbH
