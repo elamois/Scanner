@@ -1,9 +1,8 @@
 = Redis KB server =
 
 == Presentation ==
-Redis (http://redis.io) is used to store and access the KB. Scans won't run if
-they cannot access the server and might be significantly slowed down if redis is
-not properly configured.
+Redis (http://redis.io) is used to store and access the KB. Scans will not run if
+they can't access the server and may be significantly slowed down if redis isn't properly configured.
 
 The feature has been developed with neither cluster mode nor replication
 enabled. Redis 2.4 and 2.6 are supported. Versions 2.6 and higher are
